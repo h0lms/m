@@ -1,6 +1,13 @@
+@font-face {
+    font-family: "Bebas";
+    font-style: normal;
+    font-weight: 400;
+    src:
+      local("Bebas"),
+      url("Bebas.woff") format("woff");
+  }
 body {
     background-color: #cccccc;
     color: #ffffff;
     font-family: 'Bebas Neue';
 }
-@import "http://fonts.fontstorage.com/import/bebasneue.css";
